@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Libraries/json-20210307.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/jsoup-1.18.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/sqlite-jdbc-3.47.1.0.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Libraries/openjfx-23.0.1_windows-x64_bin-sdk/javafx-sdk-23.0.1/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../Libraries/openjfx-23.0.1_windows-x64_bin-sdk/javafx-sdk-23.0.1/lib" recursive="false" />
+  </library>
+</component>
